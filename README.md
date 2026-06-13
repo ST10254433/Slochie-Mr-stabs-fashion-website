@@ -24,11 +24,11 @@ This project was built to strengthen front-end development skills using core web
 
 ## Technologies Used
 
-- HTML5 – page structure
+- HTML5 - page structure
 
-- CSS3 – styling and responsive layout
+- CSS3 - styling and responsive layout
 
-- JavaScript – interactivity and dynamic behavior
+- JavaScript - interactivity and dynamic behavior
 
 
 ## Purpose of the Project
@@ -45,8 +45,3 @@ The website is fully responsive and adapts to different screen sizes including:
 - Tablets
 
 - Desktop screens
-
-
-
-
-## 📂 Project Structure
